@@ -8,20 +8,15 @@
 - In addition to this project, I learned the following. I learned to focus the cursor after clear.
 
 <h3>Dil ve Teknolojiler</h3>
-  <img
+<p>
+  <a target="_blank"  rel="noreferrer">   <img
   src="Cinema_Buffet_Sell_App\assets\cSharp.png"
   alt="C#"
-   width="40"  height="30">
-  
+  width="50"  height="50"> </a>
+  <a target="_blank"  rel="noreferrer"> 
   <img
   src="Cinema_Buffet_Sell_App\assets\aspnet.png"
   alt="C#"
-   width="40"  height="30"> 
-   
-   <img
-  src="Cinema_Buffet_Sell_App\assets\cSharp.png"
-  alt="Plane_Reservation_System"
-  title="Plane_Reservation_System"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  width="50"  height="50">  </a>
 
-
+</p>
