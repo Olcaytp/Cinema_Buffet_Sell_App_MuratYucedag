@@ -10,12 +10,12 @@
 <h3>Dil ve Teknolojiler</h3>
 <p >  
   <img
-  src="Cinema_Buffet_Sell_App\assets\cSharp"
+  src="Cinema_Buffet_Sell_App\assets\cSharp.png"
   alt="C#"
    width="40"  height="30"/>
   
   <img
-  src="Cinema_Buffet_Sell_App\assets\aspnet"
+  src="Cinema_Buffet_Sell_App\assets\aspnet.png"
   alt="C#"
    width="40"  height="30"/> 
   
