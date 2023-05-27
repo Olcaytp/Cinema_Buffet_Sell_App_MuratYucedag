@@ -18,5 +18,11 @@
   src="Cinema_Buffet_Sell_App\assets\aspnet.png"
   alt="C#"
   width="50"  height="50">  </a>
-
 </p>
+
+<br>
+  <img
+  src="Cinema_Buffet_Sell_App\assets\photo.jpeg"
+  alt="Plane_Reservation_System"
+  title="Plane_Reservation_System"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
