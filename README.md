@@ -11,10 +11,10 @@
   <img
   src="Cinema_Buffet_Sell_App\assets\cSharp.png"
   alt="C#"
-   width="40"  height="30"/>
+   width="40"  height="30">
   
   <img
   src="Cinema_Buffet_Sell_App\assets\aspnet.png"
   alt="C#"
-   width="40"  height="30"/> 
+   width="40"  height="30"> 
 
