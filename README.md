@@ -9,15 +9,15 @@
 
 <h3>Dil ve Teknolojiler</h3>
 <p >  
-  <a  target="_blank"  rel="noreferrer">  <img
+  <img
   src="Cinema_Buffet_Sell_App\assets\c--4.svg"
   alt="C#"
-   width="40"  height="30"/>  </a> 
+   width="40"  height="30"/>
   
-  <a  target="_blank"  rel="noreferrer">  <img
+  <img
   src="Cinema_Buffet_Sell_App\assets\netframework-1.svg"
   alt="C#"
-   width="40"  height="30"/>  </a>  
+   width="40"  height="30"/> 
   
 </p>
 
