@@ -8,7 +8,6 @@
 - In addition to this project, I learned the following. I learned to focus the cursor after clear.
 
 <h3>Dil ve Teknolojiler</h3>
-<p >  
   <img
   src="Cinema_Buffet_Sell_App\assets\cSharp.png"
   alt="C#"
@@ -18,6 +17,4 @@
   src="Cinema_Buffet_Sell_App\assets\aspnet.png"
   alt="C#"
    width="40"  height="30"/> 
-  
-</p>
 
